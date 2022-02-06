@@ -1,2 +1,2 @@
-# certi-desafio-tecnico
+# Desafio técnico - CERTI
 
